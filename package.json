@@ -1,6 +1,6 @@
 {
   "name": "create-mcp-ide",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Interactive setup wizard for MCP Intelligence IDE integration - Zero to AI-powered development in 5 minutes",
   "bin": {
     "create-mcp-ide": "./scripts/create-mcp-ide.js",

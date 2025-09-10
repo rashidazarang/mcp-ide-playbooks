@@ -30,24 +30,17 @@ Or choose your IDE:
 
 <div align="center">
 
-| IDE | Time | Guide | Video |
-|-----|------|-------|-------|
-| **VS Code + Claude** | 3 min | [Guide](quickstart/vscode-claude.md) | [▶️ Watch](https://youtube.com/watch?v=demo1) |
-| **JetBrains + Claude** | 5 min | [Guide](quickstart/jetbrains-claude.md) | [▶️ Watch](https://youtube.com/watch?v=demo2) |
-| **VS Code + Copilot** | 3 min | [Guide](quickstart/vscode-copilot.md) | [▶️ Watch](https://youtube.com/watch?v=demo3) |
-| **Cursor IDE** | 2 min | [Guide](quickstart/cursor.md) | [▶️ Watch](https://youtube.com/watch?v=demo4) |
-| **Neovim + Claude** | 5 min | [Guide](quickstart/neovim-claude.md) | [▶️ Watch](https://youtube.com/watch?v=demo5) |
-| **Xcode + Copilot** | 5 min | [Guide](quickstart/xcode-copilot.md) | [▶️ Watch](https://youtube.com/watch?v=demo6) |
+| IDE | Time | Guide |
+|-----|------|-------|
+| **VS Code + Claude** | 3 min | [Guide](quickstart/vscode-claude.md) |
+| **JetBrains + Claude** | 5 min | Coming soon |
+| **VS Code + Copilot** | 3 min | Coming soon |
+| **Cursor IDE** | 2 min | Coming soon |
+| **Neovim + Claude** | 5 min | Coming soon |
+| **Xcode + Copilot** | 5 min | Coming soon |
 
 </div>
 
-## 🎬 See It In Action
-
-<div align="center">
-  <img src="assets/demo.gif" alt="MCP Intelligence in VS Code" width="600">
-  
-  *VS Code + Claude + MCP Intelligence: 75% faster, 80% fewer tokens*
-</div>
 
 ## 🏆 Why Use This?
 
@@ -70,15 +63,15 @@ Query → Smart Routing (400 tokens) → Fast Response (100ms)
 ## 📚 Full Playbooks
 
 ### By Use Case
-- 🌐 [Web Development](playbooks/web-development.md) - React, Vue, Next.js workflows
-- 📊 [Data Science](playbooks/data-science.md) - Jupyter, pandas, ML pipelines
-- 📱 [Mobile Development](playbooks/mobile.md) - React Native, Flutter, Swift
-- 🏢 [Enterprise](playbooks/enterprise.md) - Corporate proxies, team setups
+- 🌐 Web Development - React, Vue, Next.js workflows (coming soon)
+- 📊 Data Science - Jupyter, pandas, ML pipelines (coming soon)
+- 📱 Mobile Development - React Native, Flutter, Swift (coming soon)
+- 🏢 Enterprise - Corporate proxies, team setups (coming soon)
 
 ### By AI Assistant
-- 🤖 [Claude](playbooks/claude/) - Anthropic's Claude with MCP
-- 🐙 [GitHub Copilot](playbooks/copilot/) - Microsoft's Copilot
-- 🔄 [Both Together](playbooks/multi-ai/) - Use multiple AI assistants
+- 🤖 Claude - Anthropic's Claude with MCP
+- 🐙 GitHub Copilot - Microsoft's Copilot (coming soon)
+- 🔄 Both Together - Use multiple AI assistants (coming soon)
 
 ## 🛠️ Installation Wizard
 
@@ -125,15 +118,6 @@ This interactive wizard will:
    ```
 </details>
 
-## 🎮 Try It Online
-
-No installation needed! Try MCP Intelligence in your browser:
-
-<div align="center">
-  <a href="https://playground.mcp-intelligence.dev">
-    <img src="https://img.shields.io/badge/Try%20Online-Playground-orange?style=for-the-badge" alt="Try Online">
-  </a>
-</div>
 
 ## 📊 Health Check
 
@@ -209,20 +193,7 @@ We love contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 npm run add-ide -- --name="sublime" --type="editor"
 ```
 
-## 📹 Video Tutorials
 
-1. [Getting Started (5 min)](https://youtube.com/watch?v=start)
-2. [Advanced Workflows (10 min)](https://youtube.com/watch?v=advanced)
-3. [Team Setup (8 min)](https://youtube.com/watch?v=team)
-4. [Troubleshooting (6 min)](https://youtube.com/watch?v=troubleshoot)
-
-## 🌟 Success Stories
-
-> "Reduced our API costs by 75% while making development 3x faster" - **Tech Startup**
-
-> "The playbooks made it trivial to onboard our entire team" - **Fortune 500**
-
-> "Finally, AI that actually understands context" - **Solo Developer**
 
 ## 📅 Roadmap
 
@@ -257,6 +228,6 @@ Special thanks to:
 
 [Get Started →](quickstart/vscode-claude.md)
 
-[Report Issue](https://github.com/rashidazarang/mcp-ide-playbooks/issues) · [Request Feature](https://github.com/rashidazarang/mcp-ide-playbooks/issues) · [Join Discord](https://discord.gg/mcp-intelligence)
+[Report Issue](https://github.com/rashidazarang/mcp-ide-playbooks/issues) · [Request Feature](https://github.com/rashidazarang/mcp-ide-playbooks/issues)
 
 </div>
