@@ -1,0 +1,65 @@
+{
+  "name": "create-mcp-ide",
+  "version": "1.0.0",
+  "description": "Interactive setup wizard for MCP Intelligence IDE integration - Zero to AI-powered development in 5 minutes",
+  "bin": {
+    "create-mcp-ide": "./scripts/create-mcp-ide.js",
+    "mcp-ide": "./scripts/mcp-ide-cli.js"
+  },
+  "main": "scripts/create-mcp-ide.js",
+  "scripts": {
+    "test": "node scripts/create-mcp-ide.js --dry-run",
+    "lint": "eslint scripts/**/*.js",
+    "format": "prettier --write scripts/**/*.js"
+  },
+  "keywords": [
+    "mcp",
+    "intelligence",
+    "ide",
+    "vscode",
+    "jetbrains",
+    "claude",
+    "copilot",
+    "ai",
+    "setup",
+    "wizard",
+    "create",
+    "init"
+  ],
+  "author": "Rashid Azarang",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashidazarang/mcp-ide-playbooks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rashidazarang/mcp-ide-playbooks/issues"
+  },
+  "homepage": "https://github.com/rashidazarang/mcp-ide-playbooks#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "inquirer": "^8.2.6",
+    "ora": "^5.4.1",
+    "axios": "^1.6.2",
+    "semver": "^7.5.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "prettier": "^3.1.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "scripts/",
+    "quickstart/",
+    "templates/",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
