@@ -2,9 +2,12 @@
 
 > **Zero to AI-Powered Development in 5 Minutes** - Quick-start playbooks for integrating MCP Intelligence with your favorite IDE
 
+[![npm version](https://img.shields.io/npm/v/create-mcp-ide.svg)](https://www.npmjs.com/package/create-mcp-ide)
+[![npm downloads](https://img.shields.io/npm/dm/create-mcp-ide.svg)](https://www.npmjs.com/package/create-mcp-ide)
 [![Setup Time](https://img.shields.io/badge/Setup%20Time-5%20minutes-green)](quickstart/)
 [![IDEs Supported](https://img.shields.io/badge/IDEs-6-blue)](playbooks/)
 [![Success Rate](https://img.shields.io/badge/Success%20Rate-95%25-brightgreen)](metrics/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 🎯 What is This?
 
@@ -15,9 +18,13 @@ Transform your IDE into an AI-powered development environment with:
 
 ## ⚡ Quick Start
 
+### One Command Setup
+
 ```bash
 npx create-mcp-ide
 ```
+
+[![NPM](https://nodei.co/npm/create-mcp-ide.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/create-mcp-ide/)
 
 Or choose your IDE:
 
