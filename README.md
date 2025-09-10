@@ -212,13 +212,7 @@ MIT - Use freely in personal and commercial projects.
 
 ## 🙏 Acknowledgments
 
-Built with ❤️ by the MCP Intelligence community.
-
-Special thanks to:
-- Anthropic (Claude)
-- GitHub (Copilot)
-- MCP Protocol team
-- Our amazing contributors
+Built with ❤️ by Rashid Azarang
 
 ---
 
